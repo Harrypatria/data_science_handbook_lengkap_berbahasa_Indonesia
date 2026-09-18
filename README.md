@@ -10,7 +10,8 @@
 [![License](https://img.shields.io/badge/License-Educational-0A66C2?style=flat-square)](#)
 [![Reproducible](https://img.shields.io/badge/Reproducible-Seed%2042-2EA44F?style=flat-square)](#disiplin)
 
-> Folder terpisah dari handbook (PDF). Berisi bukti eksekusi nyata yang mendukung setiap bab.
+> Folder terpisah dari handbook (PDF). Berisi latihan syntax dari setiap module dari Handbook Data Science and AI.
+> Free handbook on www.convergeni.com
 
 ---
 
