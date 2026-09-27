@@ -67,6 +67,22 @@ Modul yang tidak tercantum (0, 1, 2B, 12B, 16, 17B) bersifat konseptual atau sud
 pip install pandas numpy matplotlib seaborn scipy statsmodels scikit-learn networkx torch Sastrawi opencv-python jupyter
 ```
 
+## AI Engineering
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     AGENTIC AI SYSTEM                        │
+├──────────────┬──────────────┬──────────────┬─────────────────┤
+│   Retrieval  │ Augmentation │  Reasoning   │   Evaluation    │
+├──────────────┴──────────────┴──────────────┴─────────────────┤
+│             Knowledge · Data · Models · Tools                │
+├──────────────────────────────────────────────────────────────┤
+│          API · Backend · Analytical Layer · Frontend         │
+├──────────────────────────────────────────────────────────────┤
+│        MLOps · Cloud · Monitoring · AI Guardrails            │
+└──────────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
 Remember: Every expert was once a beginner. Your programming journey is unique, and we're here to support you every step of the way.
 
